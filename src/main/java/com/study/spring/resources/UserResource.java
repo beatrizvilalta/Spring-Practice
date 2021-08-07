@@ -1,6 +1,6 @@
 package com.study.spring.resources;
 
-import com.study.spring.domain.User;
+import com.study.spring.entities.User;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
